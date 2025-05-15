@@ -10,11 +10,11 @@
  * @author Bruno Silva (brunomnsilva@gmail.com)
  * @bug No known bugs.
  */
-
+#include "disk.h"
 #pragma once
 
 /** Type definition. Change according to the use-case. */
-typedef int StackElem;
+typedef Disk StackElem;
 
 /**
  * @brief Prints an element.
